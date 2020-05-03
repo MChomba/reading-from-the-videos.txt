@@ -1,6 +1,6 @@
 
 def main():
-    #open the video_file for reading
+    #open the video_file for reading..but its not working
     video_file=open("video.txt","r")
     #accumulator to zero
     total=0
